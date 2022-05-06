@@ -1,7 +1,6 @@
-const getConstsColor = () => {
-    return {
-        BACKGROUND_COLOR: '#FFFDFD',
-        PRIMARY_COLOR: '#F19A6B',
-        BORDER_COLOR: '#ddd'
-    }
-}
+const BACKGROUND_COLOR = '#FFFDFD';
+const PRIMARY_COLOR = '#F19A6B';
+const BORDER_COLOR = '#ddd'
+const BORDER_WIDTH = 1;
+
+
